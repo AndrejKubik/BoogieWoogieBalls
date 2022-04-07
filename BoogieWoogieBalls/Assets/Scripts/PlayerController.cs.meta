@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 21024d52de11ca04cbc6081266915b74
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameManager: {instanceID: 0}
+  - soundManager: {instanceID: 0}
+  - bulletBehaviour: {instanceID: 0}
+  - player: {instanceID: 0}
+  - aimPrefab: {instanceID: 0}
+  - playerRb: {instanceID: 0}
+  - aimLineRenderer: {instanceID: 0}
+  - bulletSpawn: {instanceID: 0}
+  - bullet: {instanceID: 0}
+  - crosshair: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
